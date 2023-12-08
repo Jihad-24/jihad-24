@@ -24,10 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jihad-24&show_icons=true&locale=en" alt="jihad-24" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jihad-24&" alt="jihad-24" /></p>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jihad-24&show_icons=true&locale=en" alt="jihad-24" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jihad-24&" alt="jihad-24" /></p>
