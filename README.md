@@ -10,6 +10,14 @@
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **mdjihat0021@gmail.com**
+  
+<h3>Little facts about me 🧑</h3>
+
+- 🧞 I've been a Tech Enthusiast since childhood.
+- 🔭 I’m currently working on Frontend Web Development.
+- 👯 I’m looking to collaborate with Frontend Web Development projects.
+- 💡 Contributing to Open Source Projects is always been a goal for me.
+- ⚡ Fun fact: I love sports, especially Football.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
