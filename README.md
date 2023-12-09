@@ -14,9 +14,9 @@
 <h3>Little facts about me 🧑</h3>
 
 - 🧞 I've been a Tech Enthusiast since childhood.
-- 🔭 I’m currently working on Frontend Web Development.
+- 🔭 I’m currently working on MERN Stack Web Development.
 - 👯 I’m looking to collaborate with Frontend Web Development projects.
-- 💡 Contributing to Open Source Projects is always been a goal for me.
+- 💡 Contributing to Open Source Projects has always been my goal.
 - ⚡ Fun fact: I love sports, especially Cricket.
 
 <h3 align="left">Connect with me:</h3>
