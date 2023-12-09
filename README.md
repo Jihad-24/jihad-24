@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on Frontend Web Development.
 - 👯 I’m looking to collaborate with Frontend Web Development projects.
 - 💡 Contributing to Open Source Projects is always been a goal for me.
-- ⚡ Fun fact: I love sports, especially Football.
+- ⚡ Fun fact: I love sports, especially Cricket.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
