@@ -51,7 +51,7 @@
 
 <p align="center">
   <a href="https://github.com/jihad-24">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihad-24&theme=radical&border=7F3FBF&background=0D1117" alt="jihad hasan"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihad-24&theme=radical&border=7F3FBF&background=0D1117" alt="jihad-24"/>
   </a>
 </p>
 
