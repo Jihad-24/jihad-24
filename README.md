@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jihad-24" alt="jihad-24" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [[https://personal-site-io.netlify.app/](https://personal-portfolio-jihad-hasan.vercel.app/)]
+- 👨‍💻 All of my projects are available at [[https://personal-portfolio-jihad-hasan.vercel.app/](https://personal-portfolio-jihad-hasan.vercel.app/)]
 - 📫 How to reach me **mdjihat0021@gmail.com**
   
 <h3>Little facts about me 🧑</h3>
