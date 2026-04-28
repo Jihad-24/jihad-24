@@ -1,7 +1,7 @@
 <img width="100%"  style="align-items: center;" src="https://raw.githubusercontent.com/jihad-24/jihad-24/main/Jihad-Banner.png">
 
 <h1 align="center">Hi 👋, I'm Jihad Hasan</h1>
-<h3 align="center">A Passionate Full-Stack Developer from Bangladesh</h3>
+<h3 align="center">A Passionate Frontend Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jihad-24&label=Profile%20views&color=0e75b6&style=flat" alt="Jihad Hasn" /> </p>
 
